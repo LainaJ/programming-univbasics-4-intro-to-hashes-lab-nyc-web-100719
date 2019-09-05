@@ -6,8 +6,8 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   coffee_hash = {
-    color: => "black",
-    flavor: => "strong"
+    :color => "black",
+    :flavor => "strong"
   }
 end
 
